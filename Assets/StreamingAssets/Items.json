@@ -1,0 +1,137 @@
+//Brackets indicate the contairer for objects
+
+[
+  //Specify objects using Braces
+  {
+    "title": "Steel Gloves",
+    "value": 7,
+    "stats": {
+      "power": 2,
+      "defence": 5,
+      "vitality": 8
+    },
+    "description": "These are steel gloves",
+    "stackable": true,
+    "rarity": 3,
+    "sprite": "steel_gloves"
+
+  },
+  {
+"title": "Arrows",
+    "value": 1,
+    "stats": {
+      "power": 5,
+      "defence": 1,
+      "vitality": 1
+    },
+    "description": "These are arrows",
+    "stackable": true,
+    "rarity": 1,
+    "sprite": "Arrow"
+  },
+  {
+    "title": "Dagger",
+    "value": 5,
+    "stats": {
+      "power": 7,
+      "defence": 2,
+      "vitality": 5
+    },
+    "description": "A dagger",
+    "stackable": false,
+    "rarity": 3,
+    "sprite": "dagger"
+  },
+  {
+    "title": "Steel sword",
+    "value": 9,
+    "stats": {
+      "power": 11,
+      "defence": 10,
+      "vitality": 8
+    },
+    "description": "Steel Sword",
+    "stackable": false,
+    "rarity": 10,
+    "sprite": "steel_sword"
+  },
+    {
+"title": "Iron Pickaxe",
+    "value": 5,
+    "stats": {
+      "power": 18,
+      "defence": 7,
+      "vitality": 5
+    },
+    "description": "A pickaxe",
+    "stackable":false,
+    "rarity": 6,
+    "sprite": "iron_pickaxe"
+  },
+  {
+    "title": "Wizard Hat",
+    "value": 7,
+    "stats": {
+      "power": 1,
+      "defence": 4,
+      "vitality": 3
+    },
+    "description": "A hat a wizard would wear",
+    "stackable": false,
+    "rarity": 6,
+    "sprite": "wizardhat"
+  },
+  {
+    "title": "Melodica",
+    "value": 31,
+    "stats": {
+      "power": 81,
+      "defence": 71,
+      "vitality": 51
+    },
+    "description": "Life finds a way",
+    "stackable": false,
+    "rarity": 80,
+    "sprite": "Melodica"
+  },
+  {
+    "title": "Barrel of Mead",
+    "value": 3,
+    "stats": {
+      "power": 8,
+      "defence": 7,
+      "vitality": 5
+    },
+    "description": "Might not be what you mead",
+    "stackable": false,
+    "rarity": 6,
+    "sprite": "Mead_Barrel"
+  },
+  {
+    "title": "Cane of Old",
+    "value": 31,
+    "stats": {
+      "power": 3,
+      "defence": 2,
+      "vitality": 1
+    },
+    "description": "A cane of a citizen",
+    "stackable": false,
+    "rarity": 9,
+    "sprite": "wood_cane"
+  },
+  {
+  "title": "Divine Shield",
+    "value": 34,
+    "stats": {
+      "power": 4,
+      "defence": 72,
+      "vitality": 101
+    },
+    "description": "Devine AF",
+    "stackable":false,
+    "rarity": 91,
+    "sprite": "divine_shield"
+  }
+
+]
